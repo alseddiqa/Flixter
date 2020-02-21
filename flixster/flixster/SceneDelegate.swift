@@ -3,7 +3,7 @@
 //  flixster
 //
 //  Created by Vinh Vu on 2/19/20.
-//  Copyright © 2020 Vinh Vu. All rights reserved.
+//  Copyright © 2020 Abdullah Alseddiq. All rights reserved.
 //
 
 import UIKit
